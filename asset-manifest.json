@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NimishPortfolio/static/css/main.3d235517.css",
+    "main.js": "/NimishPortfolio/static/js/main.05e15292.js",
+    "static/js/453.ad7768ec.chunk.js": "/NimishPortfolio/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/NimishPortfolio/index.html",
+    "main.3d235517.css.map": "/NimishPortfolio/static/css/main.3d235517.css.map",
+    "main.05e15292.js.map": "/NimishPortfolio/static/js/main.05e15292.js.map",
+    "453.ad7768ec.chunk.js.map": "/NimishPortfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d235517.css",
+    "static/js/main.05e15292.js"
+  ]
+}
