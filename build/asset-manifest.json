@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nimish-ghatiya.github.io/my-react-app/static/css/main.3d235517.css",
+    "main.js": "/nimish-ghatiya.github.io/my-react-app/static/js/main.756164ef.js",
+    "static/js/453.ad7768ec.chunk.js": "/nimish-ghatiya.github.io/my-react-app/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/nimish-ghatiya.github.io/my-react-app/index.html",
+    "main.3d235517.css.map": "/nimish-ghatiya.github.io/my-react-app/static/css/main.3d235517.css.map",
+    "main.756164ef.js.map": "/nimish-ghatiya.github.io/my-react-app/static/js/main.756164ef.js.map",
+    "453.ad7768ec.chunk.js.map": "/nimish-ghatiya.github.io/my-react-app/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d235517.css",
+    "static/js/main.756164ef.js"
+  ]
+}
